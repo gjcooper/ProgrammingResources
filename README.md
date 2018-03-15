@@ -11,6 +11,8 @@
 
 ### Books
 
+Practical Python: Author ()
+
 ### Blogs
 
 ### Documentation
